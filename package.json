@@ -1,0 +1,23 @@
+{
+  "name": "kata-bootstrap-mocha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/drawain/kata-bootstrap-mocha.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drawain/kata-bootstrap-mocha/issues"
+  },
+  "homepage": "https://github.com/drawain/kata-bootstrap-mocha",
+  "dependencies": {
+    "chai": "*",
+    "mocha": "*"
+  }
+}
